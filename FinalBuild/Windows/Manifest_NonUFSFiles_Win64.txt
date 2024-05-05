@@ -1,0 +1,26 @@
+Estrix/Binaries/Win64/D3D12/D3D12Core.dll	2023-10-01T14:49:29.848Z
+Estrix/Binaries/Win64/Estrix-Win64-Shipping.exe	2024-04-16T03:05:29.878Z
+Estrix/Binaries/Win64/OpenImageDenoise.dll	2023-10-01T15:49:32.513Z
+Estrix/Binaries/Win64/boost_atomic-mt-x64.dll	2023-10-01T15:48:53.916Z
+Estrix/Binaries/Win64/boost_chrono-mt-x64.dll	2023-10-01T15:48:53.958Z
+Estrix/Binaries/Win64/boost_filesystem-mt-x64.dll	2023-10-01T15:48:53.990Z
+Estrix/Binaries/Win64/boost_iostreams-mt-x64.dll	2023-10-01T15:48:54.032Z
+Estrix/Binaries/Win64/boost_program_options-mt-x64.dll	2023-10-01T15:48:54.077Z
+Estrix/Binaries/Win64/boost_python39-mt-x64.dll	2023-10-01T15:48:54.127Z
+Estrix/Binaries/Win64/boost_regex-mt-x64.dll	2023-10-01T15:48:54.169Z
+Estrix/Binaries/Win64/boost_system-mt-x64.dll	2023-10-01T15:48:54.223Z
+Estrix/Binaries/Win64/boost_thread-mt-x64.dll	2023-10-01T15:48:54.267Z
+Estrix/Binaries/Win64/tbb.dll	2023-10-01T14:49:07.891Z
+Estrix/Binaries/Win64/tbb.pdb	2023-10-01T14:49:07.911Z
+Estrix/Binaries/Win64/tbb12.dll	2023-10-01T15:49:22.773Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-10-01T15:00:54.960Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-10-01T14:47:47.645Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-10-01T14:49:15.021Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-10-01T14:49:15.944Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-10-01T14:49:29.587Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-10-01T14:49:29.588Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-10-01T14:49:30.928Z
+Estrix/Content/Movies/BeforeTitleScreen.mp4	2024-03-24T06:28:28.216Z
+Estrix/Content/Movies/EstrixStudio_Intro.mp4	2024-02-28T04:27:04.445Z
+Estrix/Content/Movies/y2mate.com - Unreal Engine Intro_360p.mp4	2024-02-12T03:48:23.589Z
+Estrix.exe	2024-04-16T03:07:18.252Z
